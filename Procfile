@@ -1,1 +1,0 @@
-web: gunicorn --pythonpath="$PWD/simple_search" wsgi:application
